@@ -1,1 +1,1 @@
-before read pdf
+read the pdf file first
